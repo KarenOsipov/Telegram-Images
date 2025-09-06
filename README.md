@@ -24,3 +24,4 @@ Add AI-based filters (e.g., style transfer)
 Integrate background removal
 Add support for GIF editing
 Implement user galleries with cloud storage
+<img width="1256" height="1264" alt="image" src="https://github.com/user-attachments/assets/03f5a527-6306-438f-888d-c527cc74651b" />
