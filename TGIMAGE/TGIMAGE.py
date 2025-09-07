@@ -10,7 +10,7 @@ import textwrap
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Токен бота (ЗАМЕНИТЕ НА СВОЙ!)
-BOT_TOKEN = "8487604555:AAHHITtnysGoQVI_Eyvo4eas5l4KQ4knmqc"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 
 # Инициализация бота
 bot = telebot.TeleBot(BOT_TOKEN)
